@@ -1,0 +1,6 @@
+rawdata
+__pycache__
+.ipynb_checkpoints
+output
+*.json
+processed_data*
